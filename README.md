@@ -1,12 +1,12 @@
 # Data-Cleaning-Preprocessing-Pandas
  **Data cleaning and data preprocessing by using Pandas**
  
-## Cover This Concepts
+## Cover These Concepts
  * Pandas Basics
  * Pandas Series
  * Pandas DataFeames
- 
-## Cover This Methods
+ <br>
+## Cover These Methods
  * Working with Attributes in Python
  * Using an Index in pandas
  * Label-based vs Position-based Indexing
