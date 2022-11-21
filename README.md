@@ -5,7 +5,7 @@
  * Pandas Basics
  * Pandas Series
  * Pandas DataFeames
- <br>
+ <hr>
  
 ## Cover These Methods
  * Working with Attributes in Python
