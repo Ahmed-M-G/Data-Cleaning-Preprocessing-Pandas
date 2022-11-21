@@ -6,6 +6,7 @@
  * Pandas Series
  * Pandas DataFeames
  <br>
+ 
 ## Cover These Methods
  * Working with Attributes in Python
  * Using an Index in pandas
